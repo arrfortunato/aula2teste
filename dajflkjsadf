@@ -1,0 +1,36 @@
+[33mcommit 1844dd3bb881915959687e9ca359e061ca0fda3d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aline Scussel <alinefscussel@gmail.com>
+Date:   Sat Feb 3 17:59:13 2024 -0300
+
+    Criação da página Aline
+
+[33mcommit 27dde25be6090a4afd52f3c4318f008df84b3ac4[m
+Author: Thiago Costa Santana <thikimlara@gmail.com>
+Date:   Fri Feb 2 16:47:43 2024 -0300
+
+    teste repositório Thiago
+
+[33mcommit 87773bf6e0d1ebb731091a7a85f0a441d5f421ea[m
+Merge: ed63c6d fe2c78e
+Author: André Fortunato <rrandsky@gmail.com>
+Date:   Thu Feb 1 20:29:32 2024 -0300
+
+    Merge branch 'main' of github.com:arrfortunato/aula2teste
+
+[33mcommit ed63c6d6ad5dc5b0f54667fe107fa36514d2e7ef[m
+Author: André Fortunato <rrandsky@gmail.com>
+Date:   Thu Feb 1 20:27:51 2024 -0300
+
+    Adicionei as paginas principais
+
+[33mcommit fe2c78e5f85cbc43d326c2623ccfc8e604b135ee[m
+Author: Fernando Saeta <fernando.r.saeta@gmail.com>
+Date:   Thu Feb 1 20:24:43 2024 -0300
+
+    Um oi pro pessoal
+
+[33mcommit 71ea66403ed3734a0df1f48914250ae61f19b82d[m
+Author: André Fortunato <andre.fortunato@mercadolivre.com>
+Date:   Thu Feb 1 20:12:26 2024 -0300
+
+    Initial commit
